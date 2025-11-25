@@ -1,0 +1,45 @@
+🚀 Daily LeetCode Challenge — Python Solutions
+
+Welcome to my Daily LeetCode Challenge Repository!
+This repo contains the Python solutions I solve every day as part of my ongoing goal to master Data Structures & Algorithms, improve problem-solving skills, and stay consistent with coding.
+
+📌 What You’ll Find Here
+
+🧠 Daily LeetCode problems solved in Python
+
+📂 Well-structured folders with problem names
+
+💡 Clean, readable code with comments
+
+⏱️ Multiple approaches whenever possible
+
+📝 My thought process + explanations for tricky problems
+
+🎯 Why I Started This
+
+To improve:
+
+Problem-solving speed
+
+Pattern recognition
+
+Understanding of DSA concepts (Trees, Graphs, DP, etc.)
+
+Consistency and discipline in coding
+
+This repository documents my journey — one problem at a time.
+
+🔥 Goals
+
+Solve LeetCode problems every day
+
+Practice Python for DSA
+
+Track my growth publicly
+
+Build strong fundamentals for placements & competitive programming
+
+🤝 Contributions
+
+This repo is mainly for my personal practice,
+but feel free to open issues or discuss any solution!
